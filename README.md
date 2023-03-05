@@ -1,5 +1,5 @@
 # お天気アプリ
-https://weather-app-iota-one-16.vercel.app/[https://weather-app-iota-one-16.vercel.app/]
+https://weather-app-iota-one-16.vercel.app/
 
 # Getting Started with Create React App
 
